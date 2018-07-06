@@ -25,9 +25,6 @@ const fontMin = `@font-face{font-family:Lato;font-style:normal;font-weight:400;s
 
 filesTochange = [
 	'node_modules/semantic-ui-css/semantic.min.css',
-	'node_modules/semantic-ui-css/semantic.css',
-	'node_modules/semantic-ui-css/components/site.min.css',
-	'node_modules/semantic-ui-css/components/site.css'
 ];
 
 const minFileSrc = '../src/semantic.min.css';
